@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-> Seceo-Knight
+> Vaibhav Handekar
 
 $ cat profile.txt
 > Cybersecurity Engineer | Ethical Hacker
