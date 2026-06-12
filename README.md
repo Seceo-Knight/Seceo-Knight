@@ -19,8 +19,8 @@ $ whoami
 $ cat profile.txt
 > Cybersecurity Engineer | Ethical Hacker
 > Security Researcher | CTF Player
-> "No need to pay for anything in the
->  name of security."
+> "Security isn't bought with tools. 
+>  It's built by capable people.."
 > -- Seceo-Knight
 ```
 
