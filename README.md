@@ -136,11 +136,11 @@ $ cat doctrine.txt
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Seceo-Knight&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Seceo-Knight&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seceo-Knight&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seceo-Knight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seceo-Knight&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Seceo-Knight&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -150,7 +150,7 @@ $ cat doctrine.txt
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seceo-Knight&theme=radical&no-frame=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Seceo-Knight&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
