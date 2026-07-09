@@ -136,28 +136,25 @@ $ cat doctrine.txt
 
 <div align="center">
 
-<a href="https://github.com/Seceo-Knight">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Seceo-Knight&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Seceo-Knight">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seceo-Knight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</a>
+[![Profile](https://img.shields.io/badge/Profile-Seceo--Knight-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20Projects-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-Check%20Highlights-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight?tab=stars)
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seceo-Knight&theme=tokyonight&hide_border=true" />
-</a>
+[![Followers](https://img.shields.io/github/followers/Seceo-Knight?label=Followers&style=for-the-badge&color=0A0A0A&labelColor=111111)](https://github.com/Seceo-Knight?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-Explore-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight?tab=repositories)
+[![Activity](https://img.shields.io/badge/Activity-Contributions-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight)
 
 </div>
 
 ---
 
-## 🏆 Profile Trophies
+## 🏆 Profile Highlights
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seceo-Knight&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</a>
+[![Pinned Projects](https://img.shields.io/badge/Pinned%20Projects-View%20Best%20Work-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight?tab=repositories)
+[![Contribution Graph](https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight)
+[![Achievements](https://img.shields.io/badge/GitHub-Achievements-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/Seceo-Knight)
 
 </div>
 
