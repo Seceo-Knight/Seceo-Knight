@@ -136,11 +136,16 @@ $ cat doctrine.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Seceo-Knight&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<a href="https://github.com/Seceo-Knight">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Seceo-Knight&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Seceo-Knight">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seceo-Knight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seceo-Knight&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Seceo-Knight&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seceo-Knight&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -150,7 +155,9 @@ $ cat doctrine.txt
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Seceo-Knight&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seceo-Knight&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</a>
 
 </div>
 
